@@ -33,7 +33,3 @@ Last summer marked a milestone in my journey as an indie game developer with the
 
 Currently, my team and I are channeling our passion and creativity into developing two new indie titles!
 
-<!-- I'm currently studying Advanced Computer Vision courses at the Princeton University under [Prof. Jia Deng](https://www.cs.princeton.edu/~jiadeng/) and [Prof. Olga Russakovsky](https://www.cs.princeton.edu/~olgarus/). -->
-
-
-<!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
