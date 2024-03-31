@@ -3,70 +3,67 @@
 - title: Education
   type: time_table
   contents:
-    - title: Master of Computer Science
-      institution: Northeastern University -- Vancouver Campus, Vancouver, Canada
-      year: 2024
-      description:
-        - title: GPA  3.89/4.0
-          contents:
-            - Game Development, Game Engine, Computer Graphics, Algorithm, Game AI
-    - title: Master of Accounting
-      institution: Washington Unverisity in St.Louis, Olin Business School, Missouri, US
-      year: 2019
-      description:
-        - title: GPA 3.77/4.0
-          contents:
-            - Financial Accounting, Managerial Accounting, Auditing, Taxation, Business Law
-      # description:
-      #   - Description 1.
-      #   - Description 2.
-    - title: Extra Courses
-      institution: Stanford University, Online
-      year: 2023
-      description: 
-        - title: CS106B Programming Abstractions
-        - title: CS106L Modern C++ Programming
-        - title: CS107 Computer Organization and Systems
-        - title: CS110 Principles of Computer Systems
-        - title: CS146 Introduction to Game Design and Development
-        - title: CS148 Introductory Computer Graphics
-        - title: CS247G Game Design and Development
-        - title: CS248 Interactive Computer Graphics
-    - title: Extra Courses  
-      institution: University of Santa Barbara, Online
-      year: 2023
-      description: 
-        - title: Games101 Introduction to Computer Graphics
-        - title: Games202 Advanced Computer Graphics
+  - title: Master of Computer Science
+    institution: Northeastern University -- Vancouver Campus, Vancouver, Canada
+    year: 2024
+    description:
+    - title: GPA  3.89/4.0
+      contents:
+      - Game Development, Game Engine, Computer Graphics, Algorithm, Game AI
+  - title: Master of Accounting
+    institution: Washington Unverisity in St.Louis, Olin Business School, Missouri, US
+    year: 2019
+    description:
+    - title: GPA 3.77/4.0
+      contents:
+      - Financial Accounting, Managerial Accounting, Auditing, Taxation, Business Law
+  - title: Extra Courses
+    institution: Stanford University, Online
+    year: 2023
+    description: 
+    - title: CS106B Programming Abstractions
+    - title: CS106L Modern C++ Programming
+    - title: CS107 Computer Organization and Systems
+    - title: CS110 Principles of Computer Systems
+    - title: CS146 Introduction to Game Design and Development
+    - title: CS148 Introductory Computer Graphics
+    - title: CS247G Game Design and Development
+    - title: CS248 Interactive Computer Graphics
+  - title: Extra Courses  
+    institution: University of Santa Barbara, Online
+    year: 2023
+    description: 
+    - title: Games101 Introduction to Computer Graphics
+    - title: Games202 Advanced Computer Graphics
  
 
 - title: Experience
   type: time_table
   contents:
-    - title: <a href="https://www.mihoyo.com/en/">miHoYo. Co. Ltd</a>
-      contents:
-        - title: <b>Gameplay Designer</b> | Project Shanghai (PJSH) | Unreal Engine, C++, Blueprint
-          year: 2022
-          description:
-            - Responsible for PJSH's combat design and deploy by blueprint on Unreal Engine. Animation list and skill list design and cooperate with the team to making demo for logic of animation status machine and animation notification system.
-            - Responsible for open world level design, with features like environment-based event generalizer, emergent gameplay interactive event development. Collaboration with team to deploy the GAS to achieve design purposes.
-        - title: <b>Gameplay Designer</b> | <a href="https://genshin.hoyoverse.com/en/">Genshin Impact</a> | Unreal Engine, C++, Blueprint
-          year: Jul 2020 - Dec 2021
-          description:
-            - Design an <a href="https://genshin-impact.fandom.com/wiki/Weather">event manager</a> for [Genshin] that systematically manages most non-mission and scripted objects at a high level, based on environmental cues and player location, significantly enhancing game interactivity and realism.
-            - Design an <a href="https://genshin-impact.fandom.com/wiki/Enemy">enemy group manager</a> for [Genshin] open world that could create combination of enemies as a basic unit, with different strategies applied to the group and data set could be changed at run time using Lua.
-            - Design and iterative development of character skills for <a href="https://genshin-impact.fandom.com/wiki/Kujou_Sara">Kujo Sara</a> and <a href="https://genshin-impact.fandom.com/wiki/Arataki_Itto">Arataki Itto</a>, improving combat mechanics and player engagement. Design the monster trait and abilities with more dynamic and complex behavior tree.
-            - Implemented a <a href="https://genshin-impact.fandom.com/wiki/Domain">procedural generation system for dungeons</a>, optimizing the reuse of art assets while ensuring unique gameplay experiences, thus streamlining development and enriching exploration.
-        - title: <b>Junior Gameplay Designer</b>
-          year: May 2020 - Jul 2020
-          description:
-            - Coordinate the level design of <a href="https://genshin.hoyoverse.com/en/news/detail/103847">Genshin Chess</a> | Character skill design of <a href="https://genshin.hoyoverse.com/en/news/detail/103924">Eula</a> | the open world level design of <a href="https://genshin-impact.fandom.com/wiki/Inazuma">Inazuma</a> | CB3 Character Whitebox: Xiao and Ningguang.
-            - Coordinate the monster configuration based on rational level design for a general dungeon and abyss stage.
-        - title: <b>Brand Manager</b>
-          year: Feb 2020 - May 2020
-          description: 
-            - Responsible for [Genshin] European brand strategy formulation and promotion strategy, opening multiple markets in Europe, and achieving rapid growth in all data dimensions in Europe within 5 months.
-            - Support [Genshin] globally releases, responsible for [Genshin] brand strategy in Europe, and adjust the brand strategy in different regions of Europe through data analysis method.
+  - title: <a href="https://www.mihoyo.com/en/">miHoYo. Co. Ltd</a>
+    contents:
+    - title: <b>Gameplay Designer</b> | Project Shanghai (PJSH) | Unreal Engine, C++, Blueprint
+      year: 2022
+      description:
+      - Responsible for PJSH's combat design and deploy by blueprint on Unreal Engine. Animation list and skill list design and cooperate with the team to making demo for logic of animation status machine and animation notification system.
+      - Responsible for open world level design, with features like environment-based event generalizer, emergent gameplay interactive event development. Collaboration with team to deploy the GAS to achieve design purposes.
+    - title: <b>Gameplay Designer</b> | <a href="https://genshin.hoyoverse.com/en/">Genshin Impact</a> | Unreal Engine, C++, Blueprint
+      year: Jul 2020 - Dec 2021
+      description:
+      - Design an <a href="https://genshin-impact.fandom.com/wiki/Weather">event manager</a> for [Genshin] that systematically manages most non-mission and scripted objects at a high level, based on environmental cues and player location, significantly enhancing game interactivity and realism.
+      - Design an <a href="https://genshin-impact.fandom.com/wiki/Enemy">enemy group manager</a> for [Genshin] open world that could create combination of enemies as a basic unit, with different strategies applied to the group and data set could be changed at run time using Lua.
+      - Design and iterative development of character skills for <a href="https://genshin-impact.fandom.com/wiki/Kujou_Sara">Kujo Sara</a> and <a href="https://genshin-impact.fandom.com/wiki/Arataki_Itto">Arataki Itto</a>, improving combat mechanics and player engagement. Design the monster trait and abilities with more dynamic and complex behavior tree.
+      - Implemented a <a href="https://genshin-impact.fandom.com/wiki/Domain">procedural generation system for dungeons</a>, optimizing the reuse of art assets while ensuring unique gameplay experiences, thus streamlining development and enriching exploration.
+    - title: <b>Junior Gameplay Designer</b>
+      year: May 2020 - Jul 2020
+      description:
+      - Coordinate the level design of <a href="https://genshin.hoyoverse.com/en/news/detail/103847">Genshin Chess</a> | Character skill design of <a href="https://genshin.hoyoverse.com/en/news/detail/103924">Eula</a> | the open world level design of <a href="https://genshin-impact.fandom.com/wiki/Inazuma">Inazuma</a> | CB3 Character Whitebox: Xiao and Ningguang.
+      - Coordinate the monster configuration based on rational level design for a general dungeon and abyss stage.
+    - title: <b>Brand Manager</b>
+      year: Feb 2020 - May 2020
+      description: 
+      - Responsible for [Genshin] European brand strategy formulation and promotion strategy, opening multiple markets in Europe, and achieving rapid growth in all data dimensions in Europe within 5 months.
+      - Support [Genshin] globally releases, responsible for [Genshin] brand strategy in Europe, and adjust the brand strategy in different regions of Europe through data analysis method.
 
 # - title: Paper
 #   type: time_table
@@ -78,10 +75,10 @@
 - title: Skills
   type: list
   contents:
-    - <b>Game Dev</b>: Unreal Engine, Unity Engine, OpenGL, Vulkan
-    - <b>Language</b>: C, C++, C#, Lua, Python, Java, Javascript, TypeScript, Bash
-    - <b>Front/Back-end</b>: Qt, React, Next.js, Node.js, AWS, Azure, SSH, SQL, MongoDB
-    - <b>DevOps</b>: Perforce, SSH, Docker, Jenkins, Linux, Git, SVN
-    - <b>Other Tools</b>: Blender, Maya, zbrush, Photoshop, C4D, Embergen, Cascadeur
+    - "<b>Game Dev</b>: Unreal Engine, Unity Engine, OpenGL, Vulkan"
+    - "<b>Language</b>: C, C++, C#, Lua, Python, Java, Javascript, TypeScript, Bash"
+    - "<b>Front/Back-end</b>: Qt, React, Next.js, Node.js, AWS, Azure, SSH, SQL, MongoDB"
+    - "<b>DevOps</b>: Perforce, SSH, Docker, Jenkins, Linux, Git, SVN"
+    - "<b>Other Tools</b>: Blender, Maya, zbrush, Photoshop, C4D, Embergen, Cascadeur"
 
 
