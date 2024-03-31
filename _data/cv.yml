@@ -16,19 +16,19 @@
     description:
     - title: GPA 3.77/4.0
       contents:
-      - Financial Accounting, Managerial Accounting, Auditing, Taxation, Business Law
+      - Financial Accounting, Managerial Accounting, Auditing, Taxation
   - title: Extra Courses
     institution: Stanford University, Online
     year: 2023
     description: 
-    - title: CS106B Programming Abstractions
-    - title: CS106L Modern C++ Programming
-    - title: CS107 Computer Organization and Systems
-    - title: CS110 Principles of Computer Systems
-    - title: CS146 Introduction to Game Design and Development
-    - title: CS148 Introductory Computer Graphics
-    - title: CS247G Game Design and Development
-    - title: CS248 Interactive Computer Graphics
+    - title: "CS106B Programming Abstractions"
+    - title: "CS106L Modern C++ Programming"
+    - title: "CS107 Computer Organization and Systems"
+    - title: "CS110 Principles of Computer Systems"
+    - title: "CS146 Introduction to Game Design and Development"
+    - title: "CS148 Introductory Computer Graphics"
+    - title: "CS247G Game Design and Development"
+    - title: "CS248 Interactive Computer Graphics"
   - title: Extra Courses  
     institution: University of Santa Barbara, Online
     year: 2023
