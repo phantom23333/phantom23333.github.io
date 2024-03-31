@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 description: Collection of few current, past and fun projects
 nav: true
-nav_order: 3
+nav_order: 2
 display_categories: [GamePlay, Graphics, Design Doc]
 horizontal: true
 ---
