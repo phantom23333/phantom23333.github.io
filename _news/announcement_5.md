@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2019-02-20 07:59:00-0400
+date: 2019-12-14 07:59:00-0400
 inline: true
 ---
 
-Professional software coding competency across Samsung R&D centers.
+Graduating from [Washington University in St. Louis](https://wustl.edu/) stands out as one of the proudest moments in my life.

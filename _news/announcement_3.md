@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-05-20 07:59:00-0400
+date: 2020-05-20 07:59:00-0400
 inline: true
 ---
 
-Nvidia Internship - Deep Learning Inference Performance S/W Engineer
+I've begun to pursue my true passion: game design for our new branch [Genshin Impact](https://genshin.hoyoverse.com/en/)!

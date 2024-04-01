@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Collection of few current, past and fun projects
+description: Collection of the precious time I spent on
 nav: true
 nav_order: 2
 display_categories: [GamePlay, Graphics, Design Doc]

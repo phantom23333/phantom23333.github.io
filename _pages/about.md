@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-      <center>United States</center>
+      <center>North America</center>
       <center>
           <a href="https://www.linkedin.com/in/yu-ji-76209915b">LinkedIn</a> | 
           <a href="https://github.com/phantom23333">GitHub</a> |
