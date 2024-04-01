@@ -51,8 +51,8 @@
       - title: <b>Gameplay Designer</b> | <b>Genshin Impact</b> | Unreal Engine, C++, Blueprint
         year: Jul 2020 - Dec 2021
         description:
-        - Design an<a href="https://genshin-impact.fandom.com/wiki/Weather"> event manager </a>for<a href="https://genshin.hoyoverse.com/en/"> [Genshin] <\a>that systematically manages most non-mission and scripted objects at a high level, based on environmental cues and player location, significantly enhancing game interactivity and realism.
-        - Design an<a href="https://genshin-impact.fandom.com/wiki/Enemy"> enemy group manager </a>for [Genshin] open world that could create combination of enemies as a basic unit, with different strategies applied to the group and data set could be changed at run time using Lua.
+        - Design an<a href='https://genshin-impact.fandom.com/wiki/Weather'> event manager </a>for<a href=https://genshin.hoyoverse.com/en/> [Genshin] <\a>that systematically manages most non-mission and scripted objects at a high level, based on environmental cues and player location, significantly enhancing game interactivity and realism.
+        - Design an<a href=https://genshin-impact.fandom.com/wiki/Enemy> enemy group manager </a>for [Genshin] open world that could create combination of enemies as a basic unit, with different strategies applied to the group and data set could be changed at run time using Lua.
         - Design and iterative development of character skills for<a href="https://genshin-impact.fandom.com/wiki/Kujou_Sara"> Kujo Sara </a>and<a href="https://genshin-impact.fandom.com/wiki/Arataki_Itto">Arataki Itto</a>, improving combat mechanics and player engagement. Design the monster trait and abilities with more dynamic and complex behavior tree.
         - Implemented a<a href="https://genshin-impact.fandom.com/wiki/Domain">procedural generation system for dungeons</a>, optimizing the reuse of art assets while ensuring unique gameplay experiences, thus streamlining development and enriching exploration.
       - title: <b>Junior Gameplay Designer</b>
