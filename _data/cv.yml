@@ -40,15 +40,15 @@
 - title: Experience
   type: time_table
   contents:
-  - title: <a href="https://www.mihoyo.com/en/">miHoYo. Co. Ltd</a>
+  - title: <b><a href="https://www.mihoyo.com/en/">miHoYo. Co. Ltd</a></b>
     description:
       contents:
-      - title: <b>Gameplay Designer</b> | Project Shanghai (PJSH) | Unreal Engine, C++, Blueprint
+      - title: <b>Gameplay Designer</b> | <b>Project Shanghai (PJSH)</b> | Unreal Engine, C++, Blueprint
         year: December 2021 - July 2022
         description:
         - Responsible for PJSH's combat design and deploy by blueprint on Unreal Engine. Animation list and skill list design and cooperate with the team to making demo for logic of animation status machine and animation notification system.
         - Responsible for open world level design, with features like environment-based event generalizer, emergent gameplay interactive event development. Collaboration with team to deploy the GAS to achieve design purposes.
-      - title: <b>Gameplay Designer</b> | <a href="https://genshin.hoyoverse.com/en/">Genshin Impact</a> | Unreal Engine, C++, Blueprint
+      - title: <b>Gameplay Designer</b> | <a href="https://genshin.hoyoverse.com/en"> Genshin Impact</a> | Unreal Engine, C++, Blueprint
         year: Jul 2020 - Dec 2021
         description:
         - Design an <a href="https://genshin-impact.fandom.com/wiki/Weather">event manager</a> for [Genshin] that systematically manages most non-mission and scripted objects at a high level, based on environmental cues and player location, significantly enhancing game interactivity and realism.
