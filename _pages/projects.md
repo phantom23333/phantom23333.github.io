@@ -5,7 +5,7 @@ permalink: /projects/
 description: Collection of the precious time I spent on
 nav: true
 nav_order: 2
-display_categories: [GamePlay, Graphics, Design Doc]
+display_categories: [Gameplay, Graphics, Design Doc]
 horizontal: true
 ---
 

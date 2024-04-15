@@ -42,7 +42,7 @@
   contents:
   - title: <b>Gameplay Designer</b> | <b>Project Shanghai (PJSH)</b> | Unreal Engine, C++, Blueprint
     institution: <b><a href="https://www.mihoyo.com/en/">miHoYo. Co. Ltd</a></b>
-    year: December 2021 - July 2022
+    year: Dec 2021 - Jul 2022
     description:
     - Responsible for PJSH's combat design and deploy by blueprint on Unreal Engine. Animation list and skill list design and cooperate with the team to making demo for logic of animation status machine and animation notification system.
     - Responsible for open world level design, with features like environment-based event generalizer, emergent gameplay interactive event development. Collaboration with team to deploy the GAS to achieve design purposes.
