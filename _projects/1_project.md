@@ -2,14 +2,16 @@
 layout: page
 title: SAMURAI ENGINE
 description: An Lightweight, Highly Customizable Game Engine
-img: assets/logo/samuraipika.png
+img: assets/img/samuraipika.png
 importance: 1
 category: Gameplay 
 redirect: 
 ---
-<img align="right" width="300px" src="../assets/img/samuraipika.png">
+
+{% include figure.html path="assets/img/samuraipika.png" title="cor" class="img-fluid rounded z-depth-1" %}
 
 # [SAMURAI ENGINE](https://github.com/phantom23333/SAMURAI_ENGINE)
+
 
 - SAMURAI ENGINE is a light weight, highly customizable game engine written purely in C++ and allows for the creation of 2D games.
 
@@ -91,6 +93,7 @@ cmake -S . -B build
 
 ## Engine Structure
 
+{% include figure.html path="assets/img/Samurai_Engine_Architecture.png" title="cor" class="img-fluid rounded z-depth-1" %}
 
 ## Project Documentation
 
