@@ -3,6 +3,7 @@ github_users:
 
 github_repos:
   - phantom23333/SAMURAI_ENGINE
+  - phantom23333/Thunder
   - phantom23333/real-time-raytracer_CUDA
   - phantom23333/software-renderer
   - phantom23333/CppRenderer

@@ -1,22 +1,51 @@
 ---
 layout: page
-title: Plotting equations
-description: Plotting graph of equations and their intersection
-img: assets/img/2cylinders.png.webp
+title: Thunder
+description: A shoot'em all game made with pure C++ and openGL
+img: assets/img/Thunder.png
 importance: 2
-category: fun
+category: Gameplay
 ---
 
 
-An app to show how to plot the graph of a given function equation. Extending it further to plot the points that lie on the intersections of the given functions.
-Key learnings:
- - Treating graph plotting as an optimization problem.
- - Defining suitable function for the given problem. e.g. intersection
-    - <a href="https://share.streamlit.io/vdivakar/curves-intersection-with-gradient-descent/main/app.py#plotting-intersection-of-curves-using-gradient-descent">Webapp Link</a>
-    - <a href="https://github.com/vdivakar/curves-intersection-with-gradient-descent">GitHub Link</a>
+# **THUNDER**
+
+- **THUNDER** is a 2D shoot'em all game that is built on top of OpenGL and glfw.
+- Made purely with c++ and without any refernce and help from chatGPT or any other AI.
+
+## **DEMO**
+**Demo of the engine is shown in the video below:**
+
+[![Watch the video](https://img.youtube.com/vi/M7gHERrPfYA/maxresdefault.jpg)](https://www.youtube.com/watch?v=M7gHERrPfYA)
+
+## **Art work credit**
+- https://lowich.itch.io/free-spaceship-sprites
+- https://wolf-viciox.itch.io/health-bar
+- https://deep-fold.itch.io/space-background-generator
+
+## How To Build
+- Build By CMake
+```shell
+cmake -S . -B build
+# Only Support Windows right now
+```
+## How To Run
+  
+  0. Make sure you have all the prerequisites installed.
+  1. Open Visual Studio and build the project.
+  2. Run the project.
 
 
-<div class="row">
+## Prerequisites
+- [glad](https://glad.dav1d.de/): OpenGL loader
+- [gl2d](https://github.com/meemknight/gl2d): simple 2D rendering library made with OpenGL
+- [glm](https:://github.com/g-truc/glm): header only C++ mathematics library for graphics software based on the OpenGL Shading Language (GLSL) specifications.
+- [ImGui](https://github.com/ocornut/imgui): Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
+- [glfw](https://github.com/glfw/glfw): A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
+- [stb](https://github.com/nothings/stb): single-file public domain libraries for C/C++
+
+
+<!-- <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/2cylinders.png" title="2 cylinders" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -41,5 +70,5 @@ Key learnings:
 </div>
 <div class="caption">
     double-cone and cylinder with their intersection.
-</div>
+</div> -->
 
