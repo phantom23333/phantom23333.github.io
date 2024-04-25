@@ -1,22 +1,28 @@
 ---
 layout: page
-title: AI HDR
-description: Single Image HDR reconstruction & enhancement(Samsung)
-img: assets/img/AIhdr.jpg.webp
-importance: 3
-category: past #work
+title: One Half
+description: a pieces of design documentation in order to outsourcing the art work
+img: assets/img/onehalf.png
+importance: 4
+category: Design Doc #work
 ---
 
-Single Image HDR reconstruction & enhancement(Samsung)
-Camera sensors typically have low dynamic range which often leads to over-exposure or under-exposure of regions in outdoor scenes. This project aimed at enhancing the overall image by improving such regions.
-Key learnings:
- - Un-paired images DL training
- - Cyclic loss, encoder-decoder
- - HDR, tone mapping, linear vs non-linear images, histogram
- - What is HDR ? [(Notes Link)](/assets/pdf/HDR_ppt.pdf)
+{% include figure.html path="assets/img/onehalf.png" title="cor" class="img-fluid rounded z-depth-1" %}
 
-<div class="row">
+# **ONE HALF**
+- **ONE HALF** is a 2D strategy game that is built on top of Unity. With the combination of advanture novel and Turn based strategy, the game is designed to be a story-driven game with a lot of dialogues and choices that will affect the game play.
+- The Document shared is a pieces of design documentation in order to outsourcing the art work.
+
+
+## **DEMO**
+ - Link To Steam Store [(LINK)](https://store.steampowered.com/app/1998450/_/)
+
+- **Demo of the document is shown in the video below:**
+[![Watch the video](https://img.youtube.com/vi/5lwabBmIvMM/maxresdefault.jpg)](https://youtu.be/5lwabBmIvMM)
+
+
+<!-- <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/AIhdr.jpg.webp" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-</div>
+</div> -->

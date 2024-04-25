@@ -1,14 +1,24 @@
 ---
 layout: page
-title: Text-to-Speech and Decoder
-description: Speech recognition for Hindi language
-img: assets/logo/flipkart.png
+title: Action RPG -- Zenless Zone Zero
+description: An Action RPG game made with Unreal, inspired by miHoYo "Zenless Zone Zero"
+img: assets/img/ActionRPG.png
 importance: 3
-category: past #work
+category: Gameplay #work
 ---
 
+# **Action RPG DEMO**
 
-Text-to-Speech model for Hindi language (Flipkart):- 
+- **THIS DEMO** is a 3D Action RPG game made with Unreal Engine 5. The game is inspired by miHoYo's "Zenless Zone Zero".
+- Made purely with blueprint and without any refernce and help from chatGPT or any other AI.
+
+## **DEMO**
+**Demo of the game is shown in the video below:**
+
+[![Watch the video](https://img.youtube.com/vi/7LQ6xAUY5V8/maxresdefault.jpg)](https://www.youtube.com/watch?v=7LQ6xAUY5V8)
+
+
+<!-- Text-to-Speech model for Hindi language (Flipkart):- 
 The aim of this project was to generate audio speech in Hindi language for the given text sentences.  I started on this project while I was working with Flipkart. 
 ​
 Key learnings:
@@ -33,4 +43,4 @@ Key responsibilities:
 </div>
 <div class="caption">
     <a href="https://developer.nvidia.com/blog/how-to-build-domain-specific-automatic-speech-recognition-models-on-gpus/">Image reference link.</a> This image is only for a general overview of the ASR pipeline and doesn't reflect the actual work.
-</div>
+</div> -->
