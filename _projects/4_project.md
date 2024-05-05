@@ -3,7 +3,7 @@ layout: page
 title: Duelality -- Card Game
 description: Global Game Jam 2021 project, a card game made with Unity
 img: assets/img/duelality.png
-importance: 4
+importance: 5
 category: Gameplay
 ---
 
